@@ -1,0 +1,178 @@
+created_by: aevo98765
+version: 3
+domain: biology
+document_outline: >-
+  The human retromer is a stable heterotrimer of VPS35, VPS29 and VPS26 whose
+  principal role is to orchestrate the endosomal retrieval of hundreds of
+  internalised cargo and promote their recycling to the cell surface; a
+  prototypical cargo being the glucose transporter GLUT1. Retromer’s role in a
+  distinct endosomal retrieval pathway, the retrograde sorting of the
+  cation-independent mannose 6-phosphate receptor (CI-MPR) to the trans-Golgi
+  network (TGN), remains controversial. Here we have developed and applied
+  knocksideways to acutely inactivate retromer and by visualising the sorting of
+  endogenous GLUT1 and CI-MPR provide insight into the temporal dynamics of
+  endosomal cargo sorting in HeLa and H4 human neuroglioma cells. While retromer
+  knocksideways led to the development of time-resolved defects in cell surface
+  sorting of GLUT1 we failed to observe defects in the sorting of the CI-MPR. In
+  contrast knocksideways of ESCPE-1, a key regulator of retrograde CI-MPR
+  sorting, resulted in a time-resolved defect in CI-MPR sorting. Together these
+  data provide independent evidence consistent with a comparatively limited role
+  for retromer in ESCPE-1 dependent CI-MPR retrograde sorting in HeLa and H4
+  human neuroglioma cells.
+seed_examples:
+  - context: >-
+      In higher metazoans, retromer is a stable heterotrimer of VPS35, VPS29 and
+      VPS26
+
+      (mammals express two paralogs VPS26A or VPS26B) (Burd and Cullen, 2014).
+      Retromer
+
+      is associated to endosomes through binding to sorting nexin-3 (SNX3)
+      (Harterink et al.,
+
+      2011), RAB7-GTP (Rojas et al., 2008; Seaman et al., 2009) and by
+      association to cargo
+
+      presented sorting motifs (Harrison et al., 2014; Lucas et al., 2016).
+      Retromer also binds
+
+      to sorting nexin-27 (SNX27), a cargo adaptor for the sequence-dependent
+      inclusion of
+
+      around 400 cargo proteins that contain a carboxy-terminal PDZ-binding
+      motif.
+    questions_and_answers:
+      - question: What subunits are included in the mammalian Retromer complex?
+        answer: >-
+          VPS35, VPS29 and VPS26 (mammals express two paralogs VPS26A or
+          VPS26B).
+      - question: How does retromer associate with endosomes?
+        answer: >-
+          Through interaction with SNX3, RAB7-GTP and by association to cargo
+          presented sorting motifs.
+      - question: Does Retromer use a cargo adaptor?
+        answer: >-
+          Yes, Retromer uses SNX27 for the sequence-dependent inclusion of
+          around 400 cargo proteins that contain a carboxy-terminal PDZ-binding
+          motif.
+  - context: >-
+      The endosomal pathway functions as a major intracellular hub for the
+      sorting of numerous
+
+      integral proteins, which include signalling receptors, adhesion molecules,
+      nutrient
+
+      transporters, ion channels, and their associated proteins and lipids
+      (collectively termed
+
+      ‘cargoes’) (Maxfield and McGraw, 2004; Grant and Donaldson, 2009; Cullen
+      and
+
+      Steinberg, 2018). On entering the pathway, cargoes are sorted between two
+      fates: they
+
+      are either selected for degradation within the lysosome or retrieved from
+      this fate and
+
+      promoted for recycling to the plasma membrane and the trans-Golgi network
+      (TGN)
+
+      (Cullen and Steinberg, 2018).
+    questions_and_answers:
+      - question: What is the function of the endosomal system in protein sorting?
+        answer: >-
+          The endosomal pathway functions as a major intracellular hub for the
+          sorting of numerous integral proteins, which include signalling
+          receptors, adhesion molecules, nutrient transporters, ion channels,
+          and their associated proteins and lipids?
+      - question: What happens to protein cargoes when they enter the endosomal system?
+        answer: >-
+          On entering the pathway, cargoes are sorted between two fates: they
+          are either selected for degradation within the lysosome or retrieved
+          from this fate and promoted for recycling to the plasma membrane and
+          the trans-Golgi network (TGN) (Cullen and Steinberg, 2018).
+      - question: How does endosomal protein sorting relate to human health?
+        answer: >-
+          The efficient sorting of cargo is essential for normal cellular
+          homeostasis and defects in sorting are increasingly linked with human
+          physiology and pathophysiology (Schreij et al., 2016; Cullen and
+          Steinberg, 2018).
+
+  - context: >-
+      Sequence-dependent cargo sorting for retrieval and recycling is orchestrated by highly
+      conserved multi-protein complexes that include the retromer and retriever complexes, the
+      COMMD/CCDC22/CCDC93 (CCC) complex, and the ‘Endosomal SNX-BAR sorting
+      complex for promoting exit 1’ (ESCPE-1) complex (Seaman et al., 1998; Carlton et al.,
+      2004; Phillips-Krawczak et al., 2015; McNally et al., 2017; Simonetti et al., 2019). These
+      bind to sorting motifs present within the intracellular cytoplasmic domains of cargo either
+      directly (Fjorback et al., 2012; Phillips-Krawczak et al., 2015; Bartuzi et al., 2016; Lucas
+      et al., 2016; Kvainickas et al., 2017; Simonetti et al., 2019) or indirectly via cargo adaptors
+      (Strochlic et al., 2007; Lauffer et al., 2010; Harterink et al., 2011; Temkin et al., 2011;
+      Steinberg et al., 2012; Steinberg et al., 2013; Gallon et al., 2014; McNally et al., 2017).
+    questions_and_answers:
+      - question: What protein complexes are involved in sequence-dependent cargo sorting?
+        answer: >-
+          The retromer and retriever complexes, the COMMD/CCDC22/CCDC93 (CCC) complex,
+          and the ‘Endosomal SNX-BAR sorting complex for promoting exit 1’ (ESCPE-1)
+          complex.
+      - question: How do the sorting complexes bind to cargo?
+        answer: >-
+          These bind to sorting motifs present within the intracellular cytoplasmic domains of cargo either
+          directly (Fjorback et al., 2012; Phillips-Krawczak et al., 2015; Bartuzi et al., 2016; Lucas
+          et al., 2016; Kvainickas et al., 2017; Simonetti et al., 2019) or indirectly via cargo adaptors
+          (Strochlic et al., 2007; Lauffer et al., 2010; Harterink et al., 2011; Temkin et al., 2011;
+          Steinberg et al., 2012; Steinberg et al., 2013; Gallon et al., 2014; McNally et al., 2017).
+      - question: What are the references for the sequence-dependent cargo sorting protein complexes?
+        answer: >-
+          (Seaman et al., 1998; Carlton et al.,2004; Phillips-Krawczak et al., 2015; McNally et al., 2017;
+          Simonetti et al., 2019)
+
+  - context: >-
+      Working alongside these complexes, the endosome-associated Wiscott-Aldrich syndrome
+      protein and SCAR Homologue (WASH) complex drives the ARP2/3-mediated formation
+      of branched F-actin networks (Derivery et al., 2009; Gomez and Billadeau, 2009).
+      Together, cargo recognition and organisation of a localised F-actin network leads to the
+      formation of one or more retrieval sub-domains on the cytosolic face of the endosomal
+      membrane that provide platforms for the co-ordinated biogenesis of cargo-enriched
+      transport carriers (Puthenveedu et al., 2010).
+    questions_and_answers:
+      - question: Is Actin involved in this process?
+        answer: >-
+          Yes. Working alongside these complexes, the endosome-associated Wiscott-Aldrich syndrome
+          protein and SCAR Homologue (WASH) complex drives the ARP2/3-mediated formation
+          of branched F-actin networks
+      - question: Which Actin mediating proteins are involved in driving endosomal Actin formation?
+        answer: >-
+          endosome-associated Wiscott-Aldrich syndrome protein, SCAR Homologue (WASH) and ARP2/3.
+      - question: What influence does Actin have on the endosomal membrane?
+        answer: >-
+          Together, cargo recognition and organisation of a localised F-actin network leads to the
+          formation of one or more retrieval sub-domains on the cytosolic face of the endosomal
+          membrane that provide platforms for the co-ordinated biogenesis of cargo-enriched
+          transport carriers (Puthenveedu et al., 2010).
+
+  - context: >-
+      At steady state, CI-MPR is enriched at the TGN where it associates with newly
+      synthesised hydrolase precursors (Braulke and Bonifacino, 2009). The resulting CIMPR:hydrolase
+      complex is transported to the endosomal pathway, where the acidified
+      endosomal lumen induces the release of the hydrolase. While the hydrolase precursors
+      are delivered to the lysosome, where they contribute to the degradative capacity of this
+      organelle, the unoccupied CI-MPR is retrieved and recycled to the TGN for further rounds
+      of hydrolase delivery.
+    questions_and_answers:
+      - question: Where is CI-MPR located?
+        answer: >-
+          At steady state, CI-MPR is enriched at the TGN where it associates with newly
+          synthesised hydrolase precursors (Braulke and Bonifacino, 2009)
+      - question: What does CI-MPR do?
+        answer: >-
+          CI-MPR forms complexes with hyndrolases and then is transported to the endosomal pathway,
+          where the acidified endosomal lumen induces the release of the hydrolase.
+      - question: Where are hydrolases delivered to??
+        answer: >-
+          hydrolase precursors are delivered to the lysosome.
+document:
+  repo: https://github.com/aevo98765/instructlab-data
+  commit: 170e45ea349260bf8b5de737d178da25a72dcf20
+  patterns:
+    - acute-perturbation-retromer.md
